@@ -1,5 +1,5 @@
 {
-  "token": "token goes here",
+  "token": "token_goes_here",
   "fetchSkinPrices": true,
   "fetchSkinRarities": true,
   "localiseSkinNames": true,
